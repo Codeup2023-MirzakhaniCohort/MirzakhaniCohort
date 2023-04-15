@@ -1,10 +1,10 @@
 # MirzakhaniCohort
 This is a shared GitHub space for the Codeup Alumni of #MirzakhaniCohort. The initial Readme file is designed to compare GitHub progression across the Cohort by using [shields.io](https://www.shieldsio.com).
 
-# Meet Mirzakhani
+# Meet the Codeup Mirzakhani Cohort (FEB 2023 Data Scientists)
 ![Mirzikhani](./images/Mirzikhani.gif)
 
-# Better Yet... Hire One!
+# Better Yet... Hire One of Us!
 [![Codeup Alumni](https://img.shields.io/badge/Mirzakhani%20Codeup%20Alumni-green?style=for-the-badge&logo=codeup&logoColor=white)](https://alumni.codeup.com/?cohort_id=79)
 
 At [Codeup](https://codeup.com/program/data-science/) we each learned a combination of math & statistics, business expertise, and programming, as well as how to work hands-on throughout the entire data science pipeline: planning, acquisition, preparation, exploration, modeling, and delivery. Our curriculum was crafted alongside employers to make sure we learned what was needed on the job. Those topics included:
