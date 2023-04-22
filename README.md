@@ -1,5 +1,5 @@
 # MirzakhaniCohort
-This is a shared GitHub space for the Codeup Alumni of #MirzakhaniCohort. The initial Readme file is designed to compare GitHub progression across the Cohort by using [shields.io](https://www.shieldsio.com).
+This is a shared GitHub space for the Codeup Alumni of #MirzakhaniCohort. The initial Readme file is designed to compare GitHub statistics across the Cohort by using Platform as a Service (PaaS) applications by [Herokuapp](https://www.heroku.com/) and [Komorev](https://komarev.com/sources) with quicklinks to individual relevant pages (LinkedIn|GitHub|Codeup Alumni) using graphic buttons by [shields.io](https://www.shieldsio.com).
 
 # Meet the Codeup Mirzakhani Cohort (FEB 2023 Data Scientists)
 ![Mirzikhani](./images/Mirzikhani.gif)
